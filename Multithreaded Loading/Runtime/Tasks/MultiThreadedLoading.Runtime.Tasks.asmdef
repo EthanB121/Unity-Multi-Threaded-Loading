@@ -1,0 +1,19 @@
+{
+    "name": "MultiThreadedLoading.Runtime.Tasks",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b37c4141503256a48837be1d1067c8e8",
+        "GUID:08be19963e291074cbab22c6340e6421",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

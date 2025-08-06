@@ -1,0 +1,22 @@
+{
+  "name": "com.ethanb.multithreadedloader",
+  "version": "0.1.0",
+  "displayName": "Unity Multithreaded Loader",
+  "description": "Simple generic Multithreaded loading system with Addressables, Burst, and Jobs support.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Ethan",
+    "url": "https://github.com/EthanB121"
+  },
+  "keywords": [
+    "loading",
+    "multithreaded",
+    "addressables",
+    "jobs",
+    "burst",
+    "unity-package"
+  ],
+  "dependencies": {
+    "com.unity.addressables": "1.19.19"
+  }
+}

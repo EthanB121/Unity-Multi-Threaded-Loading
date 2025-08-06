@@ -1,0 +1,17 @@
+{
+    "name": "MultiThreadedLoading.Runtime.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:08be19963e291074cbab22c6340e6421",
+        "GUID:bb94bc9cdfb5c644182b33e77f61f5d1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
